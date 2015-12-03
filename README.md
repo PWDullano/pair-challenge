@@ -2,7 +2,18 @@
 
 ######There are multiple steps that you must work through and after each one is completed, `you must check in with an instructor.`  
 
-You and your pair will work together to complete all of the objectives together.  Identify the problem, discuss different approaches and solutions and then work together to solve each problem.  `If one of you does not understand how to reach a solution, it is your job as a team to get on the same page. Worth together!`
+####Sage and Scribe!
+You and your pair will work together to complete all of the objectives. 
+
+`Sages` will articulate the problem, use their vocabulary to tell the scribe what to write.  It is imperative that you communicate effectively so that the scribe knows what to do!
+
+`Scribes` will listen to the sages and follow instructions.  They are not allowed to speak unless the instructions are not clear. They must not write at will. 
+
+####Pair Programming! - This is for the later half of the day - skip these instructions and come back to them when we switch modes.
+
+You will work together to solve each problem so that once the exercise is completed, each of you has a deep understanding of what the problem was, the many different approaches that you could take, and why you chose the approach you did. 
+
+Identify the problem, discuss different approaches and solutions and then work together to solve each problem.  `If one of you does not understand how to reach a solution, it is your job as a team to get on the same page. Worth together!`
 
 ##Stage 1.
 
