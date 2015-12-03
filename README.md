@@ -47,4 +47,4 @@ You and your pair will work together to complete all of the objectives together.
 	* Submit Button
 * When the user submit’s the form the values the user has inputed in each field show along with a message stating “Your message has been recieved” and redirects to the home page
 
-Stage 6: Deploy to firebase!
+##Stage 6: Deploy to firebase!
