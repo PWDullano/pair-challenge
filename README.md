@@ -42,6 +42,16 @@ Identify the problem, discuss different approaches and solutions and then work t
 * Populate the 3 article sections with data that is also relevant  
 * When the user clicks “Read More” They are taken to that article
 
+###List of API's without authorization - Pick one that you can comfortably navigate!
+*[Wikipedia](https://en.wikipedia.org/w/api.php?)
+*[BBC1 Radio Playlist](http://www.bbc.co.uk/radio1/playlist.json)
+*[Google Books](https://www.googleapis.com/books/v1/volumes?q=isbn:0747532699)
+*[Google Location](https://maps.googleapis.com/maps/api/geocode/json?address=Oxford%20University,%20uk&sensor=false)
+*[Twitter URL Count](http://urls.api.twitter.com/1/urls/count.json?url=http://www.bbc.co.uk/news/technology-26879185)
+*[iTunes](https://itunes.apple.com/search?term=beyonce&entity=musicVideo)
+
+
+
 ##Stage 4 - Git Commit and push!
 
 * Use jQuery to change something on the page, it is up to you what changes but make it either fun or useful but make it unique
