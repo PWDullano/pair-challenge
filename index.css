@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+}
+
+header{
+  padding: 20px;
+  background: grey;
+}
+
+ul{
+  margin: 0;
+  padding: 15px;
+  list-style-type: none;
+  float: right;
+  position: relative;
+  bottom: 50px;
+  background: black;
+  color: grey;
+}
+
+ul li {
+  display: inline;
+}
