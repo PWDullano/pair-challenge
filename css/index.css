@@ -11,32 +11,53 @@ header{
   color: grey;
 }
 
-nav{
-  float: right;
-  background: black;
-  color: grey;
-  /*position: absolute;
-  top: 75px;*/
+#Brander{
+  position: absolute;
+  left:5%;
+  top: 15%;
 }
+
+h1{
+  margin-bottom: -25px;
+}
+h2{
+  margin-top: 0px:
+}
+
+nav{
+  position: absolute;
+  top: 50%;
+  right:5%;
+  transform: translateY(-50%);
+  background: black;
+  /*float: right;*/
+  padding: 2.5px;
+}
+
+ul{
+}
+
+ul li{
+  display: inline;
+  padding: 10px;
+  position: relative;
+  right: 20px;
+}
+
+#middleBox{
+  position: relative;
+  top:180px;
+  margin: 0 auto;
+  width: 90%;
+  /*height: 500px;*/
+  /*background: red;*/
+}
+
 
 img{
   float: right;
 }
 
-ul{
-  /*margin: 0;
-  padding: 15px;*/
-  /*list-style-type: none;*/
-  /*float: right;*/
-  /*position: relative;
-  bottom: 50px;*/
-  /*background: black;*/
-  /*color: grey;*/
-}
-
-ul li{
-  display: inline;
-}
 
 footer {
    position:absolute;
@@ -46,3 +67,19 @@ footer {
    background:black;
    color:grey;
 }
+
+
+/*nav{
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  height: 250px;
+  /*margin-top: 60px;*/
+  /*margin-bottom: 60px;*/
+  /*margin-right: 50px;*/
+  /*float: right;*/
+  /*background: black;
+  color: grey;*/
+  /*position: absolute;
+  top: 75px;*/
+/*}*/
